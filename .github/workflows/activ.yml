@@ -1,1 +1,7 @@
-.github/workflows/activ.yml
+name: Example
+uses: kurobaaka/kurobaaka@latest
+with:
+  filename: metrics.classic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, repositories
+  plugin_lines: yes
