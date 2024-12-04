@@ -24,24 +24,6 @@
   </a>
 </div>
 
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-<div align="center">
-    <a href="https://discord.com/users/894800603467878411" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/894800603467878411" alt="Discord Presence">
-    </a>
-</div>
-
-</details>
-
-</div>
-
-<br/><br/>
-
 <hr/>
 
 [<img align="right" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
