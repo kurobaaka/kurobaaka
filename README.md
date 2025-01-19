@@ -23,9 +23,7 @@
     <a href="https://www.youtube.com/@Waideloss?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-youtube-gray?style=for-the-badge&logo=youtube&logoColor=white"/><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX3sHGkxtRLjqHIZQ9tdarA?label=%20&style=for-the-badge"/>
   </a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
