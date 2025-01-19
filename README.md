@@ -23,6 +23,50 @@
     <a href="https://www.youtube.com/@Waideloss?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-youtube-gray?style=for-the-badge&logo=youtube&logoColor=white"/><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX3sHGkxtRLjqHIZQ9tdarA?label=%20&style=for-the-badge"/>
   </a>
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                177 commits         ████████░░░░░░░░░░░░░░░░░   33.27 % 
+🌆 Daytime                179 commits         ████████░░░░░░░░░░░░░░░░░   33.65 % 
+🌃 Evening                149 commits         ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Tuesday                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Wednesday                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Thursday                 179 commits         ████████░░░░░░░░░░░░░░░░░   33.65 % 
+Friday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Saturday                 46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Sunday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     38 mins             ████████████████████░░░░░   80.41 % 
+JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+
+
+ Last Updated on 19/01/2025 06:39:27 UTC
 <!--END_SECTION:waka-->
 <hr/>
       
