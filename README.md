@@ -9,9 +9,7 @@
 
 <div align="center">
  
-   I’m currently working on **multifunctional network of servers**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+[![roadmap.sh](https://roadmap.sh/card/tall/67912e3998c00f7117224473?variant=light&roadmaps=cpp%2Cjava%2Cgolang)](https://roadmap.sh)
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kurobaaka/kurobaaka/issues)**
 
@@ -73,7 +71,7 @@ Python                   3 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 <hr/>
       
-[![roadmap.sh](https://roadmap.sh/card/tall/67912e3998c00f7117224473?variant=light&roadmaps=cpp%2Cjava%2Cgolang)](https://roadmap.sh) [<img align="center" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
+[<img align="center" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
 
 i love konachan.com touhou  (взял небольшей перерыв пологаю)
 
