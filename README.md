@@ -76,3 +76,5 @@ Python                   3 repos             ██░░░░░░░░░�
 [<img align="center" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
 
 i love konachan.com touhou  (взял небольшей перерыв пологаю)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/67912e3998c00f7117224473?variant=light&roadmaps=cpp%2Cjava%2Cgolang)](https://roadmap.sh)
