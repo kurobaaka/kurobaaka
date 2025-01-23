@@ -9,7 +9,6 @@
 
 <div align="center">
  
-[![roadmap.sh](https://roadmap.sh/card/tall/67912e3998c00f7117224473?variant=light&roadmaps=cpp%2Cjava%2Cgolang)](https://roadmap.sh)
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kurobaaka/kurobaaka/issues)**
 
