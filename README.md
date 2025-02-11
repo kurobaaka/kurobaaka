@@ -46,11 +46,11 @@ Sunday                   143 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     9 hrs 57 mins       ████████████████████░░░░░   79.37 % 
-JSON                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-C#                       48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Groovy                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Gradle                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Java                     7 hrs 24 mins       ███████████████████░░░░░░   75.80 % 
+JSON                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+C#                       48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Groovy                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Gradle                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -66,7 +66,7 @@ C                        3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2025 05:15:48 UTC
+ Last Updated on 11/02/2025 05:14:31 UTC
 <!--END_SECTION:waka-->
 <hr/>
       
