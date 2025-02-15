@@ -46,11 +46,10 @@ Sunday                   143 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 17 mins       ██████████████████████░░░   89.18 % 
-Groovy                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Java                     34 mins             ████████████████████░░░░░   81.00 % 
+Groovy                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -66,7 +65,7 @@ C                        3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 05:14:24 UTC
+ Last Updated on 15/02/2025 05:14:46 UTC
 <!--END_SECTION:waka-->
 <hr/>
       
