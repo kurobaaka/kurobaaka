@@ -46,7 +46,8 @@ Sunday                   143 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              █████████████████████████   99.82 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,7 +63,7 @@ C                        3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2025 05:16:06 UTC
+ Last Updated on 06/04/2025 05:14:49 UTC
 <!--END_SECTION:waka-->
 <hr/>
       
