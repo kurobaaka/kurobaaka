@@ -24,21 +24,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                238 commits         ████████░░░░░░░░░░░░░░░░░   32.56 % 
-🌆 Daytime                213 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-🌃 Evening                218 commits         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-🌙 Night                  62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+🌞 Morning                238 commits         ████████░░░░░░░░░░░░░░░░░   32.51 % 
+🌆 Daytime                213 commits         ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+🌃 Evening                219 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+🌙 Night                  62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Tuesday                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Thursday                 200 commits         ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-Friday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Saturday                 77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Sunday                   143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Tuesday                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Thursday                 200 commits         ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+Friday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Saturday                 77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Sunday                   143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
 ```
 
 
@@ -46,8 +46,11 @@ Sunday                   143 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   99.82 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   1 hr 28 mins        ████████████░░░░░░░░░░░░░   49.58 % 
+JavaScript               33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Markdown                 26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,7 +66,7 @@ C                        3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/04/2025 05:16:17 UTC
+ Last Updated on 09/04/2025 05:16:18 UTC
 <!--END_SECTION:waka-->
 <hr/>
       
