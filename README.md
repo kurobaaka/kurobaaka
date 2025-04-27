@@ -46,11 +46,11 @@ Sunday                   143 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SCSS                     3 hrs 27 mins       █████████████░░░░░░░░░░░░   51.05 % 
-TypeScript               2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.08 % 
-JSON                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Pug                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+TypeScript               5 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.01 % 
+SCSS                     3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.02 % 
+JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Pug                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -66,7 +66,7 @@ C                        3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2025 05:14:56 UTC
+ Last Updated on 27/04/2025 05:15:48 UTC
 <!--END_SECTION:waka-->
 <hr/>
       
