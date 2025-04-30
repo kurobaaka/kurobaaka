@@ -7,7 +7,7 @@
  
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kurobaaka/kurobaaka/issues)**
-
+[<img align="center" alt="🦑" src="pony-town-Waidelos -sit-blinking-padded-4x.gif">](#)
  </div>
  
 <div align="center"> 
