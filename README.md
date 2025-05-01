@@ -7,7 +7,7 @@
  
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kurobaaka/kurobaaka/issues)**
-[<img align="center" alt="🦑" src="pony-town-Waidelos -sit-blinking-padded-4x.gif">](#)
+
  </div>
  
 <div align="center"> 
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     <a href="https://www.youtube.com/@Waideloss?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-youtube-gray?style=for-the-badge&logo=youtube&logoColor=white"/><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX3sHGkxtRLjqHIZQ9tdarA?label=%20&style=for-the-badge"/>
   </a>
-      
+      [<img align="center" alt="🦑" src="pony-town-Waidelos -sit-blinking-padded-4x.gif">](#)
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
