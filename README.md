@@ -22,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                242 commits         ████████░░░░░░░░░░░░░░░░░   32.61 % 
-🌆 Daytime                215 commits         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-🌃 Evening                220 commits         ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-🌙 Night                  65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+🌞 Morning                244 commits         ████████░░░░░░░░░░░░░░░░░   32.80 % 
+🌆 Daytime                215 commits         ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+🌃 Evening                220 commits         ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+🌙 Night                  65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Tuesday                  74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Thursday                 208 commits         ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-Friday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Sunday                   143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Tuesday                  74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Wednesday                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Thursday                 208 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+Friday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Sunday                   143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
 ```
 
 
@@ -44,26 +44,25 @@ Sunday                   143 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 56 mins       ███████████████░░░░░░░░░░   61.03 % 
-Pug                      1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-SCSS                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               2 hrs 24 mins       ██████████████████████░░░   86.70 % 
+Pug                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-C#                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+C#                       6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 ```
 
 
 
 
- Last Updated on 06/05/2025 05:17:18 UTC
+ Last Updated on 07/05/2025 05:17:02 UTC
 <!--END_SECTION:waka-->
 <hr/>
       
