@@ -16,34 +16,6 @@
   </a>
      
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                244 commits         ████████░░░░░░░░░░░░░░░░░   32.58 % 
-🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-🌃 Evening                224 commits         ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-🌙 Night                  65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Tuesday                  74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Wednesday                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Thursday                 208 commits         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-Friday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Sunday                   143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -57,7 +29,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 05:15:45 UTC
+ Last Updated on 17/09/2025 05:15:57 UTC
 <!--END_SECTION:waka-->
 <hr/>
       
