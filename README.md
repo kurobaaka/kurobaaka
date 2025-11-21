@@ -4,10 +4,13 @@
 <br/>
 
 <div align="center">
+ 
 
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kurobaaka/kurobaaka/issues)**
+ [<img align="center" alt="🦑" src="pony-town-Waidelos -sit-blinking-padded-4x.gif">](#)
 
  </div>
- 
+
 <div align="center"> 
   <a href="mailto:drainlinux@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -19,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                244 commits         ████████░░░░░░░░░░░░░░░░░   32.53 % 
-🌆 Daytime                217 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-🌃 Evening                224 commits         ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-🌙 Night                  65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+🌞 Morning                244 commits         ████████░░░░░░░░░░░░░░░░░   32.71 % 
+🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+🌃 Evening                221 commits         ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+🌙 Night                  65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Tuesday                  75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Wednesday                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Thursday                 208 commits         ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Friday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Sunday                   143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Tuesday                  74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Wednesday                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Thursday                 208 commits         ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+Friday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Sunday                   143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
 ```
 
 
@@ -47,22 +50,21 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-C++                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+C#                       6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 ```
 
 
 
 
- Last Updated on 21/11/2025 05:18:13 UTC
+ Last Updated on 15/09/2025 05:16:49 UTC
 <!--END_SECTION:waka-->
 <hr/>
       
 [<img align="center" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
 
 i love konachan.com touhou  (взял небольшей перерыв пологаю)
-
 
