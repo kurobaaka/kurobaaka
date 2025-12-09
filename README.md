@@ -44,7 +44,9 @@ Sunday                   143 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 14 mins             ███████████████████████░░   93.37 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -60,7 +62,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2025 05:20:27 UTC
+ Last Updated on 09/12/2025 05:18:36 UTC
 <!--END_SECTION:waka-->
 <hr/>
       
