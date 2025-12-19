@@ -70,5 +70,5 @@ HTML                     3 repos             ██░░░░░░░░░�
       
 [<img align="center" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
 
-i love konachan.com touhou  (взял небольшей перерыв пологаю)
+konachan.com
 
