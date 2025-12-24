@@ -19,52 +19,23 @@
   </a>
      
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                249 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-🌆 Daytime                535 commits         ████████████░░░░░░░░░░░░░   49.68 % 
-🌃 Evening                228 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-🌙 Night                  65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-```
-📅 **I'm Most Productive on Saturday** 
+```rust
+From: 23 September 2024 - To: 23 December 2025
 
-```text
-Monday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Tuesday                  81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Wednesday                99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Thursday                 208 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Friday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Saturday                 390 commits         █████████░░░░░░░░░░░░░░░░   36.21 % 
-Sunday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Total Time: 111 hrs 39 mins
+
+Java              49 hrs 56 mins  >>>>>>>>>>>--------------   44.25 %
+TypeScript        14 hrs 16 mins  >>>----------------------   12.65 %
+Pug               6 hrs 52 mins   >>-----------------------   06.09 %
+SCSS              6 hrs 25 mins   >------------------------   05.69 %
+Markdown          4 hrs 3 mins    >------------------------   03.60 %
+JavaScript        2 hrs 28 mins   >------------------------   02.20 %
+Python            2 hrs 15 mins   >------------------------   02.01 %
+C#                2 hrs 14 mins   -------------------------   01.99 %
+C++               1 hr 48 mins    -------------------------   01.61 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-JavaScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Pug                      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Markdown                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-JSON                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-C++                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-```
-
-
-
-
- Last Updated on 24/12/2025 05:34:39 UTC
 <!--END_SECTION:waka-->
 <hr/>
       
