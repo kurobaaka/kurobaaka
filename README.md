@@ -27,67 +27,23 @@
 
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                163 commits         █████████░░░░░░░░░░░░░░░░   37.56 % 
-🌆 Daytime                159 commits         █████████░░░░░░░░░░░░░░░░   36.64 % 
-🌃 Evening                81 commits          █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-🌙 Night                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-📅 **I'm Most Productive on Thursday** 
+```rust
+From: 23 September 2024 - To: 23 December 2025
 
-```text
-Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Tuesday                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Thursday                 129 commits         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-Friday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Saturday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Sunday                   82 commits          █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Total Time: 111 hrs 39 mins
+
+Java              49 hrs 56 mins  >>>>>>>>>>>--------------   44.25 %
+TypeScript        14 hrs 16 mins  >>>----------------------   12.65 %
+Pug               6 hrs 52 mins   >>-----------------------   06.09 %
+SCSS              6 hrs 25 mins   >------------------------   05.69 %
+Markdown          4 hrs 3 mins    >------------------------   03.60 %
+JavaScript        2 hrs 28 mins   >------------------------   02.20 %
+Python            2 hrs 15 mins   >------------------------   02.01 %
+C#                2 hrs 14 mins   -------------------------   01.99 %
+C++               1 hr 48 mins    -------------------------   01.61 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Krasnoyarsk
-
-💬 Programming Languages: 
-C                        11 mins             ████████░░░░░░░░░░░░░░░░░   33.95 % 
-C++                      11 mins             ████████░░░░░░░░░░░░░░░░░   31.32 % 
-Markdown                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-
-🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-m5stick-kuro             20 mins             ███████████████░░░░░░░░░░   58.36 % 
-test-prox                14 mins             ██████████░░░░░░░░░░░░░░░   41.64 % 
-
-💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-C#                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/kurobaaka/kurobaaka/main/assets/bar_graph.png)
-
-
- Last Updated on 26/09/2024 12:28:22 UTC
 <!--END_SECTION:waka-->
 
 
