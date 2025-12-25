@@ -37,6 +37,4 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: YOUR_NAME # optional
-          AUTHOR_EMAIL: YOUR@EMAIL.com # optional
           REPOSITORY: kurobaaka/kurobaaka
