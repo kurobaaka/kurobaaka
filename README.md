@@ -6,7 +6,7 @@
 <div align="center">
  
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kurobaaka/kurobaaka/issues)**
+
  [<img align="center" alt="🦑" src="pony-town-Waidelos -sit-blinking-padded-4x.gif">](#)
 
  </div>
@@ -37,9 +37,9 @@ C++               1 hr 48 mins    -------------------------   01.58 %
 ```
 
 <!--END_SECTION:waka-->
-<hr/>
+<!-- <hr/>
       
 [<img align="center" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
 
 konachan.com
-
+ -->
