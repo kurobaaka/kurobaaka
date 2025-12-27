@@ -21,7 +21,7 @@ Hi there 👋 I’m a **DevOps** <br>
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 September 2024 - To: 24 December 2025
+From: 23 September 2024 - To: 25 December 2025
 
 Total Time: 113 hrs 45 mins
 
