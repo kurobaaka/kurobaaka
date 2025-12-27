@@ -1,6 +1,6 @@
 # Waidelos   
 
-Hi there 👋 I’m a **DevOps** <br>
+Hi there 👋 DevOps Engineer focused on automation and cloud technologies for efficiency <br>
 
 ### Toolbox 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
