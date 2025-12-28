@@ -37,7 +37,7 @@ C++               1 hr 48 mins    -------------------------   01.56 %
 ```
 
 <!--END_SECTION:waka-->
-[![roadmap.sh](https://roadmap.sh/card/wide/67912e3998c00f7117224473?variant=light&roadmaps=devops%2Csql%2Ckubernetes%2Cdocker)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67912e3998c00f7117224473?variant=light&roadmaps=sql%2Ckubernetes%2Cdocker%2Cdevops" alt="roadmap.sh"/></a>
 
 <!-- <hr/>
   [<img align="right" alt="🦑" src="pony-town-Waidelos -sit-blinking-padded-4x.gif">](#)        
