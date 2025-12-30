@@ -21,19 +21,19 @@ Hi there 👋 DevOps Engineer focused on automation and cloud technologies for e
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 September 2024 - To: 27 December 2025
+From: 23 September 2024 - To: 28 December 2025
 
-Total Time: 115 hrs 16 mins
+Total Time: 117 hrs 22 mins
 
-Java              49 hrs 56 mins  >>>>>>>>>>>--------------   42.88 %
-TypeScript        15 hrs 1 min    >>>----------------------   12.91 %
-Pug               7 hrs 4 mins    >>-----------------------   06.07 %
-SCSS              6 hrs 58 mins   >------------------------   05.99 %
-Markdown          4 hrs 3 mins    >------------------------   03.49 %
-Python            3 hrs 47 mins   >------------------------   03.26 %
-JavaScript        2 hrs 28 mins   >------------------------   02.13 %
-C#                2 hrs 14 mins   -------------------------   01.93 %
-C++               1 hr 48 mins    -------------------------   01.56 %
+Java              49 hrs 56 mins  >>>>>>>>>>>--------------   42.12 %
+TypeScript        15 hrs 44 mins  >>>----------------------   13.28 %
+Pug               8 hrs 20 mins   >>-----------------------   07.03 %
+SCSS              7 hrs 5 mins    >------------------------   05.98 %
+Markdown          4 hrs 3 mins    >------------------------   03.43 %
+Python            3 hrs 47 mins   >------------------------   03.20 %
+JavaScript        2 hrs 28 mins   >------------------------   02.09 %
+C#                2 hrs 14 mins   -------------------------   01.90 %
+C++               1 hr 48 mins    -------------------------   01.53 %
 ```
 
 <!--END_SECTION:waka-->
