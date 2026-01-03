@@ -21,7 +21,7 @@ Hi there 👋 DevOps Engineer focused on automation and cloud technologies for e
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 September 2024 - To: 31 December 2025
+From: 23 September 2024 - To: 02 January 2026
 
 Total Time: 117 hrs 40 mins
 
