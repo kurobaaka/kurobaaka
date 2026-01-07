@@ -38,6 +38,7 @@ C++               1 hr 49 mins    -------------------------   01.50 %
 
 <!--END_SECTION:waka-->
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67912e3998c00f7117224473?variant=light&roadmaps=sql%2Ckubernetes%2Cdocker%2Cdevops" alt="roadmap.sh"/></a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/kurobaaka?theme=light&font=IBM%20Plex%20Sans&ext=contest)
 
 <!-- <hr/>
   [<img align="right" alt="🦑" src="pony-town-Waidelos -sit-blinking-padded-4x.gif">](#)        
